@@ -49,5 +49,33 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+    
+  <url>
+    <loc>https://beliefstate.io/glossary/hedging/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://beliefstate.io/glossary/belief-stabalization/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+    
+  <url>
+    <loc>https://beliefstate.io/glossary/consensus/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+    
+  <url>
+    <loc>https://beliefstate.io/glossary/uncertainty/</loc>
+    <lastmod>2026-02-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
 </urlset>
